@@ -1,0 +1,24 @@
+Date	Time.bef	Before	Carbs	Insulin	After	Time.aft	Meal	Exercise	Post hypo	Where	Note
+13/3/17	10:00	161		3			Breakfast	No			
+13/3/17	12:45	267		5	130		Lunch	No			
+13/3/17	20:50	194		5	327		Dinner	Workout			
+14/3/17	11:00	338	0	4	91	13:00	Breakfast	No			
+15/3/17	5:20	255			335	7:00	Breakfast	No			Flight
+15/3/17	11:50	106	70	4	238	13:20	Lunch	No			Flight
+15/3/17				5	313	21:00	Dinner	No			
+16/3/17	9:30	153	47	7	224	11:00	Breakfast	No			Sick
+16/3/17	14:30	68	60	5	67	15:50	Lunch	No			Sick
+17/3/17	10:40	164	37	5	309	12:30	Breakfast	No			Sick
+14/5/19	8:00	300	20	7	101	10:10	Breakfast	No			
+14/5/19	13:30	140	30	3	259	15:10	Lunch	No			
+21/5/19	9:30	228	20	5	88	12:35	Breakfast	No			
+approx	9:00	223	25	5	69	11:30	Breakfast	Bike			
+approx	11:20	193	55	5	80	12:30	Breakfast	Workout and bike and walking			Raid to ikea
+approx	14:00	80	30	0	90	15:30	Lunch	Bike	Yes		
+16/7/19	13:00	180	55	4	170	15:00	Lunch	No	No	Uni	
+16/7/19	21:00	150	45	4	202	23:30	Dinner	No	No	Home	
+17/7/19	7:40	110	35	4	282	11:40	Breakfast	Workout and bike	No	Uni	
+17/7/19	11:40	280	55	6	70-	13:30	Lunch	No	No	Uni	
+18/7/19	8:30	240	35	5	209	11:00	Breakfast	Bike	No	Uni	
+25/9/19	6:30	150	40	6	282	9:30	Breakfast	Workout	No	Uni
+
