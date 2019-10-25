@@ -1,27 +1,28 @@
 date	tbef	gbef	carb	ins	gaft	taft	meal	exer	hypo	where	note
-13/3/17	10:00	161	NA	3	NA	NA	Bkfst	O	No	NA	
-13/3/17	12:45	267	NA	5	130	NA	Lunch	O	No	NA	
-13/3/17	20:50	194	NA	5	327	NA	Dinner	W	No	NA	
-14/3/17	11:00	338	0	4	91	13:00	Bkfst	O	No	NA	
-15/3/17	5:20	255	NA	NA	335	7:00	Bkfst	O	No	NA	Flight
-15/3/17	11:50	106	70	4	238	13:20	Lunch	O	No	NA	Flight
-15/3/17	NA	NA	NA	5	313	21:00	Dinner	O	No	NA	
-16/3/17	9:30	153	47	7	224	11:00	Bkfst	O	No	NA	Sick
-16/3/17	14:30	68	60	5	67	15:50	Lunch	O	No	NA	Sick
-17/3/17	10:40	164	37	5	309	12:30	Bkfst	O	No	NA	Sick
-14/5/19	8:00	300	20	7	101	10:10	Bkfst	O	No	NA	
-14/5/19	13:30	140	30	3	259	15:10	Lunch	O	No	NA	
-21/5/19	9:30	228	20	5	88	12:35	Bkfst	O	No	NA	
+13/03/17	10:00	161	NA	3	NA	NA	Bkfst	O	No	NA	
+13/03/17	12:45	267	NA	5	130	NA	Lunch	O	No	NA	
+13/03/17	20:50	194	NA	5	327	NA	Dinner	W	No	NA	
+14/03/17	11:00	338	0	4	91	13:00	Bkfst	O	No	NA	
+15/03/17	5:20	255	NA	NA	335	7:00	Bkfst	O	No	NA	Flight
+15/03/17	11:50	106	70	4	238	13:20	Lunch	O	No	NA	Flight
+15/03/17	NA	NA	NA	5	313	21:00	Dinner	O	No	NA	
+16/03/17	9:30	153	47	7	224	11:00	Bkfst	O	No	NA	Sick
+16/03/17	14:30	68	60	5	67	15:50	Lunch	O	No	NA	Sick
+17/03/17	10:40	164	37	5	309	12:30	Bkfst	O	No	NA	Sick
+14/05/19	8:00	300	20	7	101	10:10	Bkfst	O	No	NA	
+14/05/19	13:30	140	30	3	259	15:10	Lunch	O	No	NA	
+21/05/19	9:30	228	20	5	88	12:35	Bkfst	O	No	NA	
 NA	9:00	223	25	5	69	11:30	Bkfst	B	No	NA	
 NA	11:20	193	55	5	80	12:30	Bkfst	WBH	No	NA
 NA	14:00	80	30	0	90	15:30	Lunch	B	Yes	NA	
-16/7/19	13:00	180	55	4	170	15:00	Lunch	O	No	Uni	
-16/7/19	21:00	150	45	4	202	23:30	Dinner	O	No	Home	
-17/7/19	7:40	110	35	4	282	11:40	Bkfst	WB	No	Uni	
-17/7/19	11:40	280	55	6	70-	13:30	Lunch	O	No	Uni	
-18/7/19	8:30	240	35	5	209	11:00	Bkfst	B	No	Uni	
-25/9/19	6:30	150	40	6	282	9:30	Bkfst	W	No	Uni
-25/9/19	12:30	111	25	2	253	14:20	Lunch	O	No	Uni
-26/9/19	19:45	181	40	6	146	22:00	Dinner	O	No	Home
-27/9/19	7:00	90	35	7	70-	10:00	Bkfst	WB	No	Uni
-7/10/19 7:00	101     35      6       198     12:00   Bkfst   WB      No      Uni
+16/07/19	13:00	180	55	4	170	15:00	Lunch	O	No	Uni	
+16/07/19	21:00	150	45	4	202	23:30	Dinner	O	No	Home	
+17/07/19	7:40	110	35	4	282	11:40	Bkfst	WB	No	Uni	
+17/07/19	11:40	280	55	6	70-	13:30	Lunch	O	No	Uni	
+18/07/19	8:30	240	35	5	209	11:00	Bkfst	B	No	Uni	
+25/09/19	6:30	150	40	6	282	9:30	Bkfst	W	No	Uni
+25/09/19	12:30	111	25	2	253	14:20	Lunch	O	No	Uni
+26/09/19	19:45	181	40	6	146	22:00	Dinner	O	No	Home
+27/09/19	7:00	90	35	7	70-	10:00	Bkfst	WB	No	Uni
+07/10/19	7:00	101     35      6       198     12:00   Bkfst   WB      No      Uni
+25/10/19	8:20	210	10	3	213	10:10	Bkfst	WB	No	Uni
