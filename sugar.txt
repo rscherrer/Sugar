@@ -27,3 +27,6 @@ NA	14:00	80	30	0	90	15:30	Lunch	B	Yes	NA
 07/10/19	7:00	101     35      6       198     12:00   Bkfst   WB      No      Uni
 25/10/19	8:20	210	10	3	213	10:10	Bkfst	WB	No	Uni
 25/10/19	12:30	148	100	6	245	15:00	Lunch	O	No	Uni
+26/10/19	10:00	237	0	0	237	12:00	Bkfst	HB	No	City	Market	Htone
+26/10/19	18:00	230	30	3	270	20:00	Dinner	O	No	Home		Htone
+27/10/19	8:30	167	110	5	309	12:00	Bkfst	O	No	Home		Htone		
