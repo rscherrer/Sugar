@@ -46,6 +46,6 @@ NA	14:00	80	30	0	90	15:30	Lunch	B	Yes	NA
 26/03/20	12:10	100	70	4	112	15:30	Lunch	0
 27/03/20	9:00	118	60	6	126	12:10	Bkfst	0
 27/03/20	13:10	123	115	5	131	16:10	Lunch	0
-27/03/20	18:50	143	115	5	131	22:00	Dinner	0		W	Carried crate of beers home
+27/03/20	18:50	143	135	5	131	22:00	Dinner	0		W	Carried crate of beers home
 28/03/20	8:30	103	65	6	209	12:00	Bkfst	0
-28/03/20	12:00	209	85	4			Lunch	B	Biking with Pratik and Pedro
+28/03/20	12:00	209	208	4	128	16:00	Lunch	B	Biking 24km with Pratik and Pedro
