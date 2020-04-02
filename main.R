@@ -8,7 +8,7 @@ data[numeric_cols] <- sapply(data[numeric_cols], function(x) as.numeric(as.chara
 head(data)
 
 data$delta <- with(data, gaft - gbef)
-data$ratio <- with(data, carb / ins)
+data$ratio <- with(data, ins / carb)
 
-library(ggplot2)
-ggplot(data, aes(x = ratio, y = delta, color = exer)) + geom_point()
+library(tidyverse)
+ggplot(data[grep("03-20", data$date),], aes(x = ratio, y = delta, color = meal)) + geom_point()
